@@ -286,3 +286,267 @@ http://shflash.directradios.com:1935/gazeta3/stream/live.m3u8
 http://stream2.camara.leg.br:80/camara-hls-live/tv1/camaraevent/TV1.m3u8
 #EXTINF:-1 tvg-logo="" group-title=“BRASIL”,[COLOR orange][I][B]CANAL DO BOI[/B][/I][/COLOR]
 http://srvvenus.canaldoboi.com.br:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="INFO", [COLOR green] ============================ [/COLOR]
+http://google.com
+#EXTINF:-1 group-title="INFO", [COLOR yellow] *************** AVISO *************** [/COLOR]
+http://google.com
+#EXTINF:-1 group-title="INFO", [COLOR yellow] A Tv_De_Todos nao possui nenhum [/COLOR]
+http://google.com
+#EXTINF:-1 group-title="INFO", [COLOR yellow] Servidor. Os links sao obtidos atravez [/COLOR]
+http://google.com
+#EXTINF:-1 group-title="INFO", [COLOR yellow] De buscas pela net. A Tv_De_Todos [/COLOR]
+http://google.com
+#EXTINF:-1 group-title="INFO", [COLOR yellow] Nao se responsabiliza pelo seu uso. [/COLOR]
+http://google.com
+#EXTINF:-1 group-title="INFO", [COLOR yellow] ********* Obrigado a todos. ********* [/COLOR]
+http://google.com
+#EXTINF:-1 group-title="INFO", [COLOR yellow] ***** Lacasitos&BossLulamen ****** [/COLOR]
+http://google.com
+
+#EXTINF:-1 group-title="LINE", [COLOR green] ============================ [/COLOR]
+http://google.com
+
+#EXTINF:-1 group-title="LINE", [COLOR red] ============================ [/COLOR]
+http://google.com
+
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] CANAIS EM PLEXUS [/COLOR]
+http://google.com
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] DESPORTO NACIONAL [/COLOR]
+http://google.com
+
+#EXTINF:-1 group-title="LINE", [COLOR red] ============================ [/COLOR]
+http://google.com
+
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT TV 1 [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream&mode=1&name=SPORT TV 1
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT TV 2 [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://2edaa209fd6c06a26a37ee23eaf107d260a77541&mode=1&name=acestream&mode=1&name=SPORT TV 2
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT TV 3 [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://3bdff37b69bdb6a71a85d3af69bbece1961f717d&mode=1&name=acestream&mode=1&name=SPORT TV 3
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT TV 4 [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://4f256982b213a8b3346b01683b82261db8dcd524&mode=1&name=acestream&mode=1&name=SPORT TV 4
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT TV 5 [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4&mode=1&name=acestream&mode=1&name=SPORT TV 5
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] BENFICA TV 1 [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721&mode=1&name=acestream&mode=1&name=BENFICA TV 1
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] BENFICA TV 2 [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6&mode=1&name=acestream&mode=1&name=BENFICA TV 2
+
+#EXTINF:-1 group-title="LINE", [COLOR red] ============================ [/COLOR]
+http://google.com
+
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] DESPORTO INTERNACIONAL [/COLOR]
+http://google.com
+
+#EXTINF:-1 group-title="LINE", [COLOR red] ============================ [/COLOR]
+http://google.com
+
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] BOX NATION[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://6523e673b7f5fe48627ac9c9ae15ff544e5b3652&mode=1&name=acestream&mode=1&name=BOX NATION
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] BT SPORT 2[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&mode=1&name=acestream&mode=1&name=BT SPORT 2
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] BT SPORT ESPN[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://236b59bb00513c9fbb362ec3fbbd14671b8902e8&mode=1&name=acestream&mode=1&name=BT SPORT ESPN
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] BT SPORT EUROPE[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://5e6aaac0404893cc6d85145bb988f93052d55086&mode=1&name=acestream&mode=1&name=BT SPORT EUROPE
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] C MORE TENNIS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://77353129af1bafbf313e2a2925d9166010e92ce4&mode=1&name=acestream&mode=1&name=C MORE TENNIS
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] CANAL+ DEPORTES [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://a994a04ff801f11872fc1e89258d53c5601ccfbd&mode=1&name=acestream&mode=1&name=CANAL+ DEPORTES 
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] CANAL+ DEPORTE 2 [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://7a3408bafc83d13ec6ecd8dcbc1d0511d4032963&mode=1&name=acestream&mode=1&name=CANAL+ DEPORTE 2
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] CANAL+ FUTBOL [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://1126a44a424fca3cef28870eb518a58619ec4f33&mode=1&name=acestream&mode=1&name=CANAL+ FUTBOL
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] CANAL+ LIGA [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://f78d345dde368c6bcf8b50f82142c857c5805bae&mode=1&name=acestream&mode=1&name=CANAL+ LIGA
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] CT SPORT[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://6502893c51bcabc817fc6856a94988bd81a172b4&mode=1&name=acestream&mode=1&name=CT SPORT
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] DIEMA SPORT[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://8096f1e0a5bd5fc9d73415b4f889640962785774&mode=1&name=acestream&mode=1&name=DIEMA SPORT
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] DIEMA SPORT 2 [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://09554803366c08ecca3b60f2e09c781c60f191ec&mode=1&name=acestream&mode=1&name=DIEMA SPORT 2
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] EUROSPORT BRITISH[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://268877735d560d2fe78f44bc763e40e2b23b13e4&mode=1&name=acestream&mode=1&name=EUROSPORT BRITISH
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] EUROSPORT 2 BRITISH [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://7462d97e96e0f05e4551dbd3fb8a75a2d746c596&mode=1&name=acestream&mode=1&name=EUROSPORT 2 BRITISH
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] EUROSPORT 2 NORTH-EAST [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://4b71476f6930076f6e474a520c206fdfd6c33b20&mode=1&name=acestream&mode=1&name=EUROSPORT 2 NORTH-EAST
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] EXTREME SPORTS [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://542dfa619995d7b4dac8637ba4975151db8287ce&mode=1&name=acestream&mode=1&name=EXTREME SPORTS
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] F+ BG [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://9e16ad20b97bffe4df71c4a5c80cdb10567ffcd7&mode=1&name=acestream&mode=1&name=F+ BG
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] MOTORS TV [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://84c27a15472ee950e0567667dfd270cc81b01498&mode=1&name=acestream&mode=1&name=MOTORS TV
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] MOTORSPORT [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://78e3496e60eb6531f1335639f84b28d712874ae3&mode=1&name=acestream&mode=1&name=MOTORSPORT
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] MOVISTAR F1 [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://98b327d19a16be09070212124826e9209cb97540&mode=1&name=acestream&mode=1&name=MOVISTAR F1
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] MOVISTAR MOTOGP[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://ed9387ebbf6caac72e04e7b66880fd4b69999069&mode=1&name=acestream&mode=1&name=MOVISTAR MOTOGP
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] NOVA SPORT[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://2dd6f07b0f6b600ee0ced7e9e8af352939b0d2e9&mode=1&name=acestream&mode=1&name=NOVA SPORT
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] NOVA SPORT BG[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://c7c47c5e7df3ecc92fe36d392a4c38ef4acd616d&mode=1&name=acestream&mode=1&name=NOVA SPORT BG
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] PREMIER SPORTS [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://fb2080a96e762e926a33e61c70bd74edb2beabdf&mode=1&name=acestream&mode=1&name=PREMIER SPORTS
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SETANTA SPORTS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://0f7600a4b59199820c0e19bd8457b5a617c5b2cb&mode=1&name=acestream&mode=1&name=SETANTA SPORTS
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SETANTA SPORTS EUROASIA[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://a4300fc25c0b07a9f7bec18ff97c0744bc91249a&mode=1&name=acestream&mode=1&name=SETANTA SPORTS EUROASIA
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SKY BUNDESLIGA 1[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://21dbffa1d5eb374b578e58f7a4def98e48cbc6fa&mode=1&name=acestream&mode=1&name=SKY BUNDESLIGA 1
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SKY SPORTS 3 [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://a25fe960f53a89498bfd04cd521a0b1fd3e17a58&mode=1&name=acestream&mode=1&name=SKY SPORTS 3
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SKY SPORTS F1 [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://02c14347959f78d8bf18f898c56f429ab5a44c7b&mode=1&name=acestream&mode=1&name=SKY SPORTS F1
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT 1 CZ[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://f8dec5ebffa4dda90639d1f87b4d1a66bf46fb60&mode=1&name=acestream&mode=1&name=SPORT 1 CZ
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT 2 CZ[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://923bfb351663df55f2708a82eeadb50225bc213d&mode=1&name=acestream&mode=1&name=SPORT 2 CZ
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT 1 LT [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://ea4535ee130fde3a58ab83ab5ddb7d1e54cc7ffb&mode=1&name=acestream&mode=1&name=SPORT 1 LT
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT 1 SELECT [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://a770493d86f72ac642fbd07633de46ebb026a8c1&mode=1&name=acestream&mode=1&name=SPORT 1 SELECT
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT 1 VOETBAL[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://c25b448994bd0153f88f6e6bb2181dae99a7b471&mode=1&name=acestream&mode=1&name=SPORT 1 VOETBALL
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SUPER TENNIS[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://c0348d263ba7bbb3044b156f806999b0ead8d93e&mode=1&name=acestream&mode=1&name=SUPER TENNIS
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] TELEDEPORTE [/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://db4090163ee29319561f077dcf7ca14d15d17535&mode=1&name=acestream&mode=1&name=TELEDEPORTE
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] TV2 SPORT[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://7aeb6ae47583a751939edd88baba9b631a7bda1d&mode=1&name=acestream&mode=1&name=TV2 SPORT
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] TV4 SPORT[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://abbcd13d162fb8b46c88f45be37934eb0b7cafdc&mode=1&name=acestream&mode=1&name=TV4 SPORT
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] VIASAT FOTBOLL[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://a38f93b6d18d9c86bfb664d9f17d202cc393401d&mode=1&name=acestream&mode=1&name=VIASAT FOTBOLL
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] VIASAT HOCKEY[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://548d364053e6650458e3f347dfbda0dd852781da&mode=1&name=acestream&mode=1&name=VIASAT HOCKEY
+
+
+#EXTINF:-1 group-title="LINE", [COLOR green] ============================ [/COLOR]
+http://google.com
+
+#EXTINF:-1 group-title="LINE", [COLOR orange] ============================ [/COLOR]
+http://google.com
+
+#EXTINF:-1 group-title="P2P", [COLOR orange] CANAIS EM P2P [/COLOR]
+http://google.com
+#EXTINF:-1 group-title="P2P", [COLOR orange] DESPORTO NACIONAL [/COLOR]
+http://google.com
+
+#EXTINF:-1 group-title="LINE", [COLOR orange] ============================ [/COLOR]
+http://google.com
+
+#EXTINF:-1 group-title="P2P", [COLOR orange] SPORT TV 1 [/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream&mode=1&name=SPORT TV 1
+#EXTINF:-1 group-title="P2P", [COLOR orange] SPORT TV 2 [/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://3bdff37b69bdb6a71a85d3af69bbece1961f717d&mode=1&name=acestream&mode=1&name=SPORT TV 2
+#EXTINF:-1 group-title="P2P", [COLOR orange] SPORT TV 3 [/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://9cc147cb9e58eb6db7c3445e50a24e62d22be9f1&mode=1&name=acestream&mode=1&name=SPORT TV 3
+#EXTINF:-1 group-title="P2P", [COLOR orange] SPORT TV 4 [/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://4f256982b213a8b3346b01683b82261db8dcd524&mode=1&name=acestream&mode=1&name=SPORT TV 4
+#EXTINF:-1 group-title="P2P", [COLOR orange] SPORT TV 5 [/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4&mode=1&name=acestream&mode=1&name=SPORT TV 5
+#EXTINF:-1 group-title="P2P", [COLOR orange] BENFICA TV 1 [/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721&mode=1&name=acestream&mode=1&name=BENFICA TV 1
+#EXTINF:-1 group-title="P2P", [COLOR orange] BENFICA TV 2 [/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6&mode=1&name=acestream&mode=1&name=BENFICA TV 2
+
+#EXTINF:-1 group-title="LINE", [COLOR orange] ============================ [/COLOR]
+http://google.com
+
+#EXTINF:-1 group-title="P2P", [COLOR orange] DESPORTO INTERNACIONAL [/COLOR]
+http://google.com
+
+#EXTINF:-1 group-title="LINE", [COLOR orangr] ============================ [/COLOR]
+http://google.com
+
+#EXTINF:-1 group-title="P2P", [COLOR orange] BOX NATION [/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://6523e673b7f5fe48627ac9c9ae15ff544e5b3652&mode=1&name=acestream&mode=1&name=BOX NATION
+#EXTINF:-1 group-title="P2P", [COLOR orange] BT SPORT 2[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&mode=1&name=acestream&mode=1&name=BT SPORT 2
+#EXTINF:-1 group-title="P2P", [COLOR orange] BT SPORT ESPN[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://236b59bb00513c9fbb362ec3fbbd14671b8902e8&mode=1&name=acestream&mode=1&name=BT SPORT ESPN
+#EXTINF:-1 group-title="P2P", [COLOR orange] BT SPORT EUROPE[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://5e6aaac0404893cc6d85145bb988f93052d55086&mode=1&name=acestream&mode=1&name=BT SPORT EUROPE
+#EXTINF:-1 group-title="P2P", [COLOR orange] C MORE TENNIS [/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://77353129af1bafbf313e2a2925d9166010e92ce4&mode=1&name=acestream&mode=1&name=C MORE TENNIS
+#EXTINF:-1 group-title="P2P", [COLOR orange] CANAL+ DEPORTES [/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://a994a04ff801f11872fc1e89258d53c5601ccfbd&mode=1&name=acestream&mode=1&name=CANAL+ DEPORTES 
+#EXTINF:-1 group-title="P2P", [COLOR orange] CANAL+ DEPORTE 2 [/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://7a3408bafc83d13ec6ecd8dcbc1d0511d4032963&mode=1&name=acestream&mode=1&name=CANAL+ DEPORTE 2
+#EXTINF:-1 group-title="P2P", [COLOR orange] CANAL+ FUTBOL [/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://1126a44a424fca3cef28870eb518a58619ec4f33&mode=1&name=acestream&mode=1&name=CANAL+ FUTBOL 
+#EXTINF:-1 group-title="P2P", [COLOR orange] CANAL+ LIGA [/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://f78d345dde368c6bcf8b50f82142c857c5805bae&mode=1&name=acestream&mode=1&name=CANAL+ LIGA
+#EXTINF:-1 group-title="P2P", [COLOR orange] CT SPORT[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://6502893c51bcabc817fc6856a94988bd81a172b4&mode=1&name=acestream&mode=1&name=CT SPORT
+#EXTINF:-1 group-title="P2P", [COLOR orange] DIEMA SPORT[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://8096f1e0a5bd5fc9d73415b4f889640962785774&mode=1&name=acestream&mode=1&name=DIEMA SPORT
+#EXTINF:-1 group-title="P2P", [COLOR orange] DIEMA SPORT 2[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://09554803366c08ecca3b60f2e09c781c60f191ec&mode=1&name=acestream&mode=1&name=DIEMA SPORT 2
+#EXTINF:-1 group-title="P2P", [COLOR orange] EUROSPORT BRITISH[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://268877735d560d2fe78f44bc763e40e2b23b13e4&mode=1&name=acestream&mode=1&name=EUROSPORT BRITISH
+#EXTINF:-1 group-title="P2P", [COLOR orange] EUROSPORT 2 BRITISH [/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://7462d97e96e0f05e4551dbd3fb8a75a2d746c596&mode=1&name=acestream&mode=1&name=EUROSPORT 2 BRITISH
+#EXTINF:-1 group-title="P2P", [COLOR orange] EUROSPORT 2 NORTH-EAST [/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://4b71476f6930076f6e474a520c206fdfd6c33b20&mode=1&name=acestream&mode=1&name=EUROSPORT 2 NORTH-EAST
+#EXTINF:-1 group-title="P2P", [COLOR orange] EXTREME SPORTS[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://542dfa619995d7b4dac8637ba4975151db8287ce&mode=1&name=acestream&mode=1&name=EXTREME SPORTS
+#EXTINF:-1 group-title="P2P", [COLOR orange] F+ BG [/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://9e16ad20b97bffe4df71c4a5c80cdb10567ffcd7&mode=1&name=acestream&mode=1&name=F+ BG
+#EXTINF:-1 group-title="P2P", [COLOR orange] MOTORS TV[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://84c27a15472ee950e0567667dfd270cc81b01498&mode=1&name=acestream&mode=1&name=MOTORS TV
+#EXTINF:-1 group-title="P2P", [COLOR orange] MOTORSPORT [/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://78e3496e60eb6531f1335639f84b28d712874ae3&mode=1&name=acestream&mode=1&name=MOTORSPORT
+#EXTINF:-1 group-title="P2P", [COLOR orange] MOVISTAR F1[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://98b327d19a16be09070212124826e9209cb97540&mode=1&name=acestream&mode=1&name=MOVISTAR F1
+#EXTINF:-1 group-title="P2P", [COLOR orange] MOVISTAR MOTOGP[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://ed9387ebbf6caac72e04e7b66880fd4b69999069&mode=1&name=acestream&mode=1&name=MOVISTAR MOTO GP
+#EXTINF:-1 group-title="P2P", [COLOR orange] NOVA SPORT[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://2dd6f07b0f6b600ee0ced7e9e8af352939b0d2e9&mode=1&name=acestream&mode=1&name=NOVA SPORT
+#EXTINF:-1 group-title="P2P", [COLOR orange] NOVA SPORT BG[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://c7c47c5e7df3ecc92fe36d392a4c38ef4acd616d&mode=1&name=acestream&mode=1&name=NOVA SPORT BG
+#EXTINF:-1 group-title="P2P", [COLOR orange] PREMIER SPORTS[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://fb2080a96e762e926a33e61c70bd74edb2beabdf&mode=1&name=acestream&mode=1&name=PREMIER SPORTS
+#EXTINF:-1 group-title="P2P", [COLOR orange] SETANTA SPORTS[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://0f7600a4b59199820c0e19bd8457b5a617c5b2cb&mode=1&name=acestream&mode=1&name=SETANTA SPORTS
+#EXTINF:-1 group-title="P2P", [COLOR orange] SETANTA SPORTS EUROASIA[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://a4300fc25c0b07a9f7bec18ff97c0744bc91249a&mode=1&name=acestream&mode=1&name=SETANTA SPORTS EUROASIA
+#EXTINF:-1 group-title="P2P", [COLOR orange] SKY BUNDESLIGA 1[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://21dbffa1d5eb374b578e58f7a4def98e48cbc6fa&mode=1&name=acestream&mode=1&name=SKY BUNDESLIGA 1
+#EXTINF:-1 group-title="P2P", [COLOR orange] SKY SPORTS 3 [/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://a25fe960f53a89498bfd04cd521a0b1fd3e17a58&mode=1&name=acestream&mode=1&name=SKY SPORTS 3
+#EXTINF:-1 group-title="P2P", [COLOR orange] SKY SPORTS F1[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://02c14347959f78d8bf18f898c56f429ab5a44c7b&mode=1&name=acestream&mode=1&name=SKY SPORTS F1
+#EXTINF:-1 group-title="P2P", [COLOR orange] SPORT 1 CZ[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://f8dec5ebffa4dda90639d1f87b4d1a66bf46fb60&mode=1&name=acestream&mode=1&name=SPORT 1 CZ
+#EXTINF:-1 group-title="P2P", [COLOR orange] SPORT 2 CZ[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://923bfb351663df55f2708a82eeadb50225bc213d&mode=1&name=acestream&mode=1&name=SPORT 2 CZ
+#EXTINF:-1 group-title="P2P", [COLOR orange] SPORT 1 LT [/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://ea4535ee130fde3a58ab83ab5ddb7d1e54cc7ffb&mode=1&name=acestream&mode=1&name=SPORT 1 LT
+#EXTINF:-1 group-title="P2P", [COLOR orange] SPORT 1 SELECT[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://a770493d86f72ac642fbd07633de46ebb026a8c1&mode=1&name=acestream&mode=1&name=SPORT 1 SELECT
+#EXTINF:-1 group-title="P2P", [COLOR orange] SPORT 1 VOETBAL[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://c25b448994bd0153f88f6e6bb2181dae99a7b471&mode=1&name=acestream&mode=1&name=SPORT 1 VOETBAL
+#EXTINF:-1 group-title="P2P", [COLOR orange] SUPER TENNIS[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://c0348d263ba7bbb3044b156f806999b0ead8d93e&mode=1&name=acestream&mode=1&name=SUPER TENNIS
+#EXTINF:-1 group-title="P2P", [COLOR orange] TELEDEPORTE [/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://db4090163ee29319561f077dcf7ca14d15d17535&mode=1&name=acestream&mode=1&name=TELEDEPORTE
+#EXTINF:-1 group-title="P2P", [COLOR orange] TV2 SPORT[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://7aeb6ae47583a751939edd88baba9b631a7bda1d&mode=1&name=acestream&mode=1&name=TV2 SPOT
+#EXTINF:-1 group-title="P2P", [COLOR orange] TV4 SPORT[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://abbcd13d162fb8b46c88f45be37934eb0b7cafdc&mode=1&name=acestream&mode=1&name=TV4 SPORT
+#EXTINF:-1 group-title="P2P", [COLOR orange] VIASAT FOTBOLL[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://a38f93b6d18d9c86bfb664d9f17d202cc393401d&mode=1&name=acestream&mode=1&name=VIASAT FOTBOLL
+#EXTINF:-1 group-title="P2P", [COLOR orange] VIASAT HOCKEY[/COLOR]
+plugin://plugin.video.p2p-streams/?mode=1&url=acestream://548d364053e6650458e3f347dfbda0dd852781da&mode=1&name=acestream&mode=1&name=VIASAT HOCKEY
+
+
+
+#EXTINF:-1 group-title="LINE", [COLOR yellow] ============================ [/COLOR]
+http://google.com
+
+#EXTINF:-1 group-title="LINE", [COLOR green] ============================ [/COLOR]
+http://google.com
